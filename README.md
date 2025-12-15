@@ -1,0 +1,1 @@
+La página actua como un ordenador perdido el cual ha sido abandonado por su antiguo dueño, intenta recrear los sentimientos del antiguo usuario mediante preguntas pero, parece fallar algo en el sistema..
